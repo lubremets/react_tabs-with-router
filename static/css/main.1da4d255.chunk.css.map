@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,qBACF,CAEA,EACE,qBAAuB,CACvB,oBAAqB,CACrB,WACF","file":"main.1da4d255.chunk.css","sourcesContent":[".active {\n  background-color: yellow;\n}\n\na {\n  border: solid black 1px;\n  text-decoration: none;\n  padding: 5px;\n}\n"]}
